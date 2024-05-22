@@ -6,8 +6,7 @@ on:
   pull_request:
     branches: [ master ]
 
-jobs:
-  build_and_test:
+
 
   publish-job:
       runs-on: ubuntu-latest
